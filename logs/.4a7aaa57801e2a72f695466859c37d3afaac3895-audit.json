@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 28
+    },
+    "auditLog": "/home/gc/Projects/echobody-backend/logs/.4a7aaa57801e2a72f695466859c37d3afaac3895-audit.json",
+    "files": [
+        {
+            "date": 1724151048986,
+            "name": "/home/gc/Projects/echobody-backend/logs/ECHO_BODY-2024-08-20.log",
+            "hash": "e48d9ccd944e89827a84687a70865bb65392515dee321c723f55981cb7d1e468"
+        }
+    ],
+    "hashType": "sha256"
+}

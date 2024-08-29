@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 28
+    },
+    "auditLog": "/Users/shivam/project/echobody-backend/logs/.27a67f6979bcf6dde845c5e7a797442ee57c85b5-audit.json",
+    "files": [
+        {
+            "date": 1724145752563,
+            "name": "/Users/shivam/project/echobody-backend/logs/ECHO_BODY-2024-08-20.log",
+            "hash": "86216c3cfc7904ebd2e1fc3b990195fa175f6bde195f5520f799773ae96d4c14"
+        },
+        {
+            "date": 1724307805835,
+            "name": "/Users/shivam/project/echobody-backend/logs/ECHO_BODY-2024-08-22.log",
+            "hash": "ead84311153574c417dfdaee018458c8989de14907a48afb317cc6e361d3d7fc"
+        },
+        {
+            "date": 1724826764786,
+            "name": "/Users/shivam/project/echobody-backend/logs/ECHO_BODY-2024-08-28.log",
+            "hash": "5b22856a9c6df2d25bf6ad284387c3d9fd984c4dc6a5f93bb3c1b4c70c801de5"
+        },
+        {
+            "date": 1724927079737,
+            "name": "/Users/shivam/project/echobody-backend/logs/ECHO_BODY-2024-08-29.log",
+            "hash": "e1fcdc4d8369507a93d0d5a4cf5a013b55fb0e5a509973e8175e35aaea981fa7"
+        }
+    ],
+    "hashType": "sha256"
+}
